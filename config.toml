@@ -3,3 +3,4 @@ languageCode = "de"
 title = "Gymnastik- und Steptanz-Verein Fortuna Biesdorf e.V."
 
 DefaultContentLanguage = "de"
+disableHugoGeneratorInject = true
